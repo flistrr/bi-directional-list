@@ -9,16 +9,7 @@ namespace List
         private Node? head;
         private Node? tail;
 
-        public double FindAvarage(){
-            if(this == null) throw new EmptyListException();
-            int count = 0;
-            double sum = 0;
-            foreach (var item in this){
-                count++;
-                sum += item;
-            }
-            return sum/count;
-        }
+        
 
         public void AddToBeginning(double data)
         {
@@ -35,7 +26,19 @@ namespace List
             }
         }
 
+        public double FindAvarage(){
+            if(this == null) throw new EmptyListException();
+            int count = 0;
+            double sum = 0;
+            foreach (var item in this){
+                count++;
+                sum += item;
+            }
+            return sum/count;
+        }
+
         public int FindFirstEntryOfElementBelowAvarage(){
+            if(this == null) throw new EmptyListException();
             var current = head;
             if(current == null) throw new EmptyListException();
             int index = 0;
@@ -50,6 +53,7 @@ namespace List
         }
 
         public double FindMaxElement(){
+            if(this == null) throw new EmptyListException();
             var current = head;
             if(current == null) throw new EmptyListException();
             double max = 0;
@@ -63,6 +67,7 @@ namespace List
         }
 
         public double FindSumAfterMaxElement(){
+            if(this == null) throw new EmptyListException();
             var current = tail;
             double result = 0;
             while(current != null){
@@ -77,6 +82,7 @@ namespace List
 
 
         public BiDirectionalList NewListGreaterThanNumber(double number){
+            if(this == null) throw new EmptyListException();
             var newBiDirectionalList = new BiDirectionalList();
             var current = head;
             while(current != null){
@@ -90,6 +96,7 @@ namespace List
         }
 
         public BiDirectionalList NewListWithoutElementsBeforeMax(){
+            if(this == null) throw new EmptyListException();
             var newBiDirectionalList = new BiDirectionalList();
             var current = tail;
             while(current.Data != FindMaxElement()){
@@ -145,7 +152,8 @@ namespace List
 
 
             
-            Console.WriteLine("Enter the number to create a new list from the first one but without elements below it: ");
+            Console.WriteLine("Enter the number to create a new list from the first one but without " + 
+            "elements below it: ");
             double yourNumber = Convert.ToDouble(Console.ReadLine());
 
             var newList = list.NewListGreaterThanNumber(yourNumber);
@@ -166,4 +174,3 @@ namespace List
         }
     }
 }
-
