@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace List
+namespace BiDirectionalList
 {
     class BiDirectionalList : IEnumerable<double>
     {

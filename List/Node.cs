@@ -1,6 +1,6 @@
 using System;
 
-namespace List;
+namespace BiDirectionalList;
 
 public class Node
 {
