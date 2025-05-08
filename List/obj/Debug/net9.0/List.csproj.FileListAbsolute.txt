@@ -1,0 +1,14 @@
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+C:\Users\flistrrr\Desktop\lab7\List\List\bin\Debug\net9.0\List.exe
+C:\Users\flistrrr\Desktop\lab7\List\List\bin\Debug\net9.0\List.deps.json
+C:\Users\flistrrr\Desktop\lab7\List\List\bin\Debug\net9.0\List.runtimeconfig.json
+C:\Users\flistrrr\Desktop\lab7\List\List\bin\Debug\net9.0\List.dll
+C:\Users\flistrrr\Desktop\lab7\List\List\bin\Debug\net9.0\List.pdb
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.dll
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\refint\List.dll
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.pdb
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\ref\List.dll
