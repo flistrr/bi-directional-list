@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flistrrr\\Desktop\\bi-directional-list\\List\\List.csproj": {}
+    "C:\\Users\\flistrrr\\Desktop\\bidirectional list\\bi-directional-list\\List\\List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flistrrr\\Desktop\\bi-directional-list\\List\\List.csproj": {
+    "C:\\Users\\flistrrr\\Desktop\\bidirectional list\\bi-directional-list\\List\\List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flistrrr\\Desktop\\bi-directional-list\\List\\List.csproj",
+        "projectUniqueName": "C:\\Users\\flistrrr\\Desktop\\bidirectional list\\bi-directional-list\\List\\List.csproj",
         "projectName": "List",
-        "projectPath": "C:\\Users\\flistrrr\\Desktop\\bi-directional-list\\List\\List.csproj",
+        "projectPath": "C:\\Users\\flistrrr\\Desktop\\bidirectional list\\bi-directional-list\\List\\List.csproj",
         "packagesPath": "C:\\Users\\flistrrr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flistrrr\\Desktop\\bi-directional-list\\List\\obj\\",
+        "outputPath": "C:\\Users\\flistrrr\\Desktop\\bidirectional list\\bi-directional-list\\List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flistrrr\\AppData\\Roaming\\NuGet\\NuGet.Config"

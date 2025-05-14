@@ -12,3 +12,18 @@ C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\refint\List.dll
 C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.pdb
 C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\List.genruntimeconfig.cache
 C:\Users\flistrrr\Desktop\lab7\List\List\obj\Debug\net9.0\ref\List.dll
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\List.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\List.AssemblyInfoInputs.cache
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\List.AssemblyInfo.cs
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\List.csproj.CoreCompileInputs.cache
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\List.sourcelink.json
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\List.dll
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\refint\List.dll
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\List.pdb
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\bin\Debug\net9.0\List.exe
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\bin\Debug\net9.0\List.deps.json
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\bin\Debug\net9.0\List.runtimeconfig.json
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\bin\Debug\net9.0\List.dll
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\bin\Debug\net9.0\List.pdb
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\List.genruntimeconfig.cache
+c:\Users\flistrrr\Desktop\bidirectional list\bi-directional-list\List\obj\Debug\net9.0\ref\List.dll

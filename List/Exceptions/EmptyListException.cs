@@ -1,6 +1,6 @@
 using System;
 
-namespace BiDirectionalList;
+namespace BiDirectionalList.Exceptions;
 
 public class EmptyListException : Exception
 {
